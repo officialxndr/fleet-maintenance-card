@@ -1,5 +1,7 @@
 # Fleet Maintenance Card
 
+![Card Preview](preview.png)
+
 A custom Lovelace card for Home Assistant to track your vehicle maintenance, companion to the Fleet Maintenance OS.
 
 ## Installation via HACS
