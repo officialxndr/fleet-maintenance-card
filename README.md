@@ -2,7 +2,13 @@
 
 ![Card Preview](preview.png)
 
-A custom Lovelace card for Home Assistant to track your vehicle maintenance, companion to the Fleet Maintenance OS.
+A custom Lovelace card for Home Assistant to track your vehicle maintenance. 
+
+⚠️ **IMPORTANT PREREQUISITE** ⚠️
+This card is the frontend companion to the **Fleet Maintenance OS**. It will not function unless the backend database and add-on are installed. 
+* 👉 **[Click here to install the Fleet Maintenance OS Add-on / Docker container](https://github.com/officialxndr/fleet-maintenance-addon)**
+
+---
 
 ## Installation via HACS
 
